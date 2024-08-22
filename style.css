@@ -171,6 +171,10 @@ section {
     margin: auto 0;
 }
 
+.profile-picture {
+    border-radius: 36px;
+}
+
 .section__text {
     align-self: center;
     text-align: center;
